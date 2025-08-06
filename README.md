@@ -34,11 +34,9 @@ Uma luva exoesqueleto equipada com potenciômetros captura os movimentos reais d
 ## 👨‍💻 Desenvolvedor
 
 **Caio Daniel**  
-Graduando em Engenharia de Controle e Automação — UEA (Manaus, Brasil) 
-
+Graduando em Engenharia de Controle e Automação — UEA (Manaus, Brasil)
 Especializando em Inteligencia Artificial - Stanford University (USA)
 Pesquisador em robótica, Software e IA. 
-
 
 📧 cd.chaves2005@gmail.com | 🌐 www.linkedin.com/in/caiodesiderioch
 
