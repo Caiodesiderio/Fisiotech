@@ -1,9 +1,6 @@
-# 🤖 Mão Robótica para Fisioterapia | Protótipo Multifuncional Impresso em 3D
+# Mão Robótica para Fisioterapia | Protótipo Multifuncional Impresso em 3D
 
 Este projeto apresenta uma **mão robótica impressa em 3D**, desenvolvida como uma ferramenta de apoio à **fisioterapia**, com foco especial em **reabilitação interativa para crianças**. Projetada e modelada no Autodesk Inventor, o protótipo integra soluções de hardware e software para permitir múltiplos modos de operação e engajamento do paciente.
-
-## 🧠 Principais Funcionalidades
-
 A mão robótica possui **4 modos de funcionamento**, combinando eletrônica, visão computacional, desenvolvimento mobile e controle embarcado:
 
 ### 1. 🔘 Modo Manual (Botões)
@@ -23,26 +20,14 @@ Uma luva exoesqueleto equipada com potenciômetros captura os movimentos reais d
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
 - **Projeto Mecânico**: Autodesk Inventor | Impressão 3D (PLA)
-- **Sistema Embarcado**: Arduino / ESP32 | Servomotores | Potenciômetros | Botões
+- **Sistema Embarcado**: Arduino / ESP32 | Servomotores | Potenciômetros | Botões| Placa de Circuito Impresso |
 - **Visão Computacional**: OpenCV + Python
 - **Aplicativo Mobile**: Flutter | Firebase (Firestore, Autenticação)
 - **Comunicação em Tempo Real**: Firebase / Serial / Wi-Fi
 - **Linguagens**: Dart, Python, C++
-
----
-
-## 🎯 Aplicações e Impacto
-
-Este protótipo é voltado para:
-- **Terapia de reabilitação**
-- **Tecnologia assistiva**
-- **Educação em STEM**
-- **Pesquisa em robótica e interação homem-máquina**
-
----
 
 ## 📸 Mídia e Demonstração
 
@@ -51,20 +36,12 @@ Este protótipo é voltado para:
 
 ---
 
-## 🚧 Melhorias Futuras
-
-- Integrar sensores de força
-- Melhorar a precisão da detecção de gestos
-- Adicionar registro de dados e histórico de sessões no aplicativo
-- Realizar testes práticos com profissionais da saúde
-
----
-
 ## 👨‍💻 Desenvolvedor
 
 **Caio Daniel**  
-Graduando em Engenharia de Controle e Automação — UEA (Manaus, Brasil)  
-Pesquisador em robótica, sistemas embarcados e tecnologia para saúde  
+Graduando em Engenharia de Controle e Automação — UEA (Manaus, Brasil) 
+Especializando em Inteligencia Artificial - Stanford University (School of Engineering, USA)
+Pesquisador em robótica, Software e IA. 
 📧 cd.chaves2005@gmail.com | 🌐 www.linkedin.com/in/caiodesiderioch
 
 ---
