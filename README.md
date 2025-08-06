@@ -4,11 +4,7 @@ Este projeto apresenta uma **mão robótica impressa em 3D**, desenvolvida como 
 A mão robótica possui **4 modos de funcionamento**, combinando eletrônica, visão computacional, desenvolvimento mobile e controle embarcado:
 
 ### 1. 🔘 Modo Manual (Botões)
-Cada um dos cinco dedos pode ser aberto ou fechado individualmente através de botões físicos — ideal para testes diretos e demonstrações.
-
 ### 2. 🧍‍♂️ Modo Visão Computacional
-Um sistema baseado em webcam detecta os gestos da mão humana em tempo real e os replica na mão robótica, utilizando algoritmos de visão computacional.
-
 ### 3. 📱 Modo Aplicativo (Flutter + Firebase)
 Uma solução completa que simula o funcionamento de um aplicativo de clínica:
 - **Pacientes** e **profissionais** se conectam via ID único.
@@ -26,7 +22,6 @@ Uma luva exoesqueleto equipada com potenciômetros captura os movimentos reais d
 - **Sistema Embarcado**: Arduino / ESP32 | Servomotores | Potenciômetros | Botões| Placa de Circuito Impresso |
 - **Visão Computacional**: OpenCV + Python
 - **Aplicativo Mobile**: Flutter | Firebase (Firestore, Autenticação)
-- **Comunicação em Tempo Real**: Firebase / Serial / Wi-Fi
 - **Linguagens**: Dart, Python, C++
 
 ## 📸 Mídia e Demonstração
