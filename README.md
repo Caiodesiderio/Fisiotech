@@ -24,7 +24,7 @@ Uma luva exoesqueleto equipada com potenciômetros captura os movimentos reais d
 - **Aplicativo Mobile**: Flutter | Firebase (Firestore, Autenticação)
 - **Linguagens**: Dart, Python, C++
 
-## 📸 Mídia e Demonstração
+## Mídia e Demonstração
 
 > _Adicione aqui imagens ou GIFs de cada modo para melhor visualização._  
 > _Opcional: Insira o link de um vídeo demonstrativo (ex: YouTube)._
