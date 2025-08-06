@@ -36,6 +36,7 @@ Uma luva exoesqueleto equipada com potenciômetros captura os movimentos reais d
 **Caio Daniel**  
 Graduando em Engenharia de Controle e Automação — UEA (Manaus, Brasil) 
 Especializando em Inteligencia Artificial - Stanford University (School of Engineering, USA)
+
 Pesquisador em robótica, Software e IA. 
 📧 cd.chaves2005@gmail.com | 🌐 www.linkedin.com/in/caiodesiderioch
 
