@@ -3,15 +3,15 @@
 Este projeto apresenta uma **mão robótica impressa em 3D**, desenvolvida como uma ferramenta de apoio à **fisioterapia**, com foco especial em **reabilitação interativa para crianças**. Projetada e modelada no Autodesk Inventor, o protótipo integra soluções de hardware e software para permitir múltiplos modos de operação e engajamento do paciente.
 A mão robótica possui **4 modos de funcionamento**, combinando eletrônica, visão computacional, desenvolvimento mobile e controle embarcado:
 
-### 1. 🔘 Modo Manual (Botões)
-### 2. 🧍‍♂️ Modo Visão Computacional
-### 3. 📱 Modo Aplicativo (Flutter + Firebase)
+### 1. Modo Manual (Botões)
+### 2. Modo Visão Computacional
+### 3. Modo Aplicativo (Flutter + Firebase)
 Uma solução completa que simula o funcionamento de um aplicativo de clínica:
 - **Pacientes** e **profissionais** se conectam via ID único.
 - O profissional pode agendar sessões e configurar os parâmetros do tratamento (ângulos dos servos, repetições, duração).
 - No dia agendado, o paciente ativa a sessão e imita os movimentos da mão robótica — promovendo uma **terapia interativa e gamificada**, especialmente voltada para crianças.
 
-### 4. 🦾 Modo Exoesqueleto (com Potenciômetros)
+### 4. Modo Exoesqueleto (com Potenciômetros)
 Uma luva exoesqueleto equipada com potenciômetros captura os movimentos reais dos dedos e os replica na mão robótica — proporcionando um controle intuitivo e com baixa latência.
 
 ---
@@ -35,9 +35,12 @@ Uma luva exoesqueleto equipada com potenciômetros captura os movimentos reais d
 
 **Caio Daniel**  
 Graduando em Engenharia de Controle e Automação — UEA (Manaus, Brasil) 
-Especializando em Inteligencia Artificial - Stanford University (School of Engineering, USA)
+
+Especializando em Inteligencia Artificial - Stanford University (USA)
 
 Pesquisador em robótica, Software e IA. 
+
+
 📧 cd.chaves2005@gmail.com | 🌐 www.linkedin.com/in/caiodesiderioch
 
 ---
