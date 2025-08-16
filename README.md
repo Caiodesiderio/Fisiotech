@@ -6,7 +6,7 @@ A mão robótica possui **4 modos de funcionamento**, combinando eletrônica, vi
 ### 1. Modo Manual (Botões)
 ### 2. Modo Visão Computacional
 ### 3. Modo Aplicativo (Flutter + Firebase)
-Uma solução completa que simula o funcionamento de um aplicativo de clínica:
+Uma solução completa que simula o funcionamento de um aplicativo de clínica::
 - **Pacientes** e **profissionais** se conectam via ID único.
 - O profissional pode agendar sessões e configurar os parâmetros do tratamento (ângulos dos servos, repetições, duração).
 - No dia agendado, o paciente ativa a sessão e imita os movimentos da mão robótica — promovendo uma **terapia interativa e gamificada**, especialmente voltada para crianças.
